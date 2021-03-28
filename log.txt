@@ -1,0 +1,2820 @@
+send_swp: File name is sample.txt
+fill_send_buffer: Packet length: 3
+fill_send_buffer: Copied data into pointer
+send_metadata: Sent data to receiver.
+send_metadata: received response from reciever.
+fill_send_buffer: Packet length: 11
+fill_send_buffer: Copied data into pointer
+send_metadata: Sent data to receiver.
+send_metadata: received response from reciever.
+send_swp: Metadata received and acknowledged.
+send_swp: Doing something...
+send_swp: Allocated buffer for sending.
+send_swp: Current ack num: 0
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 0
+send_swp: Current ack num: 1
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 1
+send_swp: Current ack num: 2
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 2
+send_swp: Current ack num: 3
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 3
+send_swp: Current ack num: 4
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 4
+send_swp: Current ack num: 5
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 5
+send_swp: Current ack num: 6
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 6
+send_swp: Current ack num: 7
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 7
+send_swp: Current ack num: 8
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 8
+send_swp: Current ack num: 9
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 9
+send_swp: Current ack num: 10
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 10
+send_swp: Current ack num: 11
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 11
+send_swp: Current ack num: 12
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 12
+send_swp: Current ack num: 13
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 13
+send_swp: Current ack num: 14
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 14
+send_swp: Current ack num: 15
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 15
+send_swp: Current ack num: 16
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 16
+send_swp: Current ack num: 17
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 17
+send_swp: Current ack num: 18
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 18
+send_swp: Current ack num: 19
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 19
+send_swp: Current ack num: 20
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 20
+send_swp: Current ack num: 21
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 21
+send_swp: Current ack num: 22
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 22
+send_swp: Current ack num: 23
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 23
+send_swp: Current ack num: 24
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 24
+send_swp: Current ack num: 25
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 25
+send_swp: Current ack num: 26
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 26
+send_swp: Current ack num: 27
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 27
+send_swp: Current ack num: 28
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 28
+send_swp: Current ack num: 29
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Received packet with ack_num 0
+send_swp: Current ack num: 29
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Current ack num: 30
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Received packet with ack_num 1
+send_swp: Current ack num: 30
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Current ack num: 31
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Received packet with ack_num 2
+send_swp: Current ack num: 31
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Current ack num: 32
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Received packet with ack_num 3
+send_swp: Current ack num: 32
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Current ack num: 33
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Received packet with ack_num 4
+send_swp: Current ack num: 33
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Current ack num: 34
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Received packet with ack_num 5
+send_swp: Current ack num: 34
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Current ack num: 35
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Received packet with ack_num 6
+send_swp: Current ack num: 35
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Current ack num: 36
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Received packet with ack_num 7
+send_swp: Current ack num: 36
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Current ack num: 37
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Received packet with ack_num 8
+send_swp: Current ack num: 37
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Current ack num: 38
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Received packet with ack_num 9
+send_swp: Current ack num: 38
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Current ack num: 39
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Received packet with ack_num 10
+send_swp: Current ack num: 39
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Current ack num: 40
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Received packet with ack_num 11
+send_swp: Current ack num: 40
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Current ack num: 41
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Received packet with ack_num 12
+send_swp: Current ack num: 41
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Current ack num: 42
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Received packet with ack_num 13
+send_swp: Current ack num: 42
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Current ack num: 43
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Received packet with ack_num 14
+send_swp: Current ack num: 43
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Current ack num: 44
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Received packet with ack_num 15
+send_swp: Current ack num: 44
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Current ack num: 45
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Received packet with ack_num 16
+send_swp: Current ack num: 45
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Current ack num: 46
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Received packet with ack_num 17
+send_swp: Current ack num: 46
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Current ack num: 47
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Received packet with ack_num 18
+send_swp: Current ack num: 47
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Current ack num: 48
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 48
+send_swp: Received packet with ack_num 19
+send_swp: Current ack num: 48
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 48
+send_swp: Current ack num: 49
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 49
+send_swp: Received packet with ack_num 20
+send_swp: Current ack num: 49
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 49
+send_swp: Current ack num: 50
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 50
+send_swp: Received packet with ack_num 21
+send_swp: Current ack num: 50
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 50
+send_swp: Current ack num: 51
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 51
+send_swp: Received packet with ack_num 22
+send_swp: Current ack num: 51
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 51
+send_swp: Current ack num: 52
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 52
+send_swp: Received packet with ack_num 23
+send_swp: Current ack num: 52
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 52
+send_swp: Current ack num: 53
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 53
+send_swp: Received packet with ack_num 24
+send_swp: Current ack num: 53
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 53
+send_swp: Current ack num: 54
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 54
+send_swp: Received packet with ack_num 25
+send_swp: Current ack num: 54
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 54
+send_swp: Current ack num: 55
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 55
+send_swp: Received packet with ack_num 26
+send_swp: Current ack num: 55
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 55
+send_swp: Current ack num: 56
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 56
+send_swp: Received packet with ack_num 27
+send_swp: Current ack num: 56
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 56
+send_swp: Current ack num: 57
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 57
+send_swp: Received packet with ack_num 28
+send_swp: Current ack num: 57
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 57
+send_swp: Current ack num: 58
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 58
+send_swp: Received packet with ack_num 29
+send_swp: Current ack num: 58
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 58
+send_swp: Current ack num: 59
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 59
+send_swp: Received packet with ack_num 30
+send_swp: Current ack num: 59
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 59
+send_swp: Current ack num: 0
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 0
+send_swp: Received packet with ack_num 31
+send_swp: Current ack num: 0
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 0
+send_swp: Current ack num: 1
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 1
+send_swp: Received packet with ack_num 32
+send_swp: Current ack num: 1
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 1
+send_swp: Current ack num: 2
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 2
+send_swp: Received packet with ack_num 33
+send_swp: Current ack num: 2
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 2
+send_swp: Current ack num: 3
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 3
+send_swp: Received packet with ack_num 34
+send_swp: Current ack num: 3
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 3
+send_swp: Current ack num: 4
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 4
+send_swp: Received packet with ack_num 35
+send_swp: Current ack num: 4
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 4
+send_swp: Current ack num: 5
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 5
+send_swp: Received packet with ack_num 36
+send_swp: Current ack num: 5
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 5
+send_swp: Current ack num: 6
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 6
+send_swp: Received packet with ack_num 37
+send_swp: Current ack num: 6
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 6
+send_swp: Current ack num: 7
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 7
+send_swp: Received packet with ack_num 38
+send_swp: Current ack num: 7
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 7
+send_swp: Current ack num: 8
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 8
+send_swp: Received packet with ack_num 39
+send_swp: Current ack num: 8
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 8
+send_swp: Current ack num: 9
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 9
+send_swp: Received packet with ack_num 40
+send_swp: Current ack num: 9
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 9
+send_swp: Current ack num: 10
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 10
+send_swp: Received packet with ack_num 41
+send_swp: Current ack num: 10
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 10
+send_swp: Current ack num: 11
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 11
+send_swp: Received packet with ack_num 42
+send_swp: Current ack num: 11
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 11
+send_swp: Current ack num: 12
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 12
+send_swp: Received packet with ack_num 43
+send_swp: Current ack num: 12
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 12
+send_swp: Current ack num: 13
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 13
+send_swp: Received packet with ack_num 44
+send_swp: Current ack num: 13
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 13
+send_swp: Current ack num: 14
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 14
+send_swp: Received packet with ack_num 45
+send_swp: Current ack num: 14
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 14
+send_swp: Current ack num: 15
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 15
+send_swp: Received packet with ack_num 46
+send_swp: Current ack num: 15
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 15
+send_swp: Current ack num: 16
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 16
+send_swp: Received packet with ack_num 47
+send_swp: Current ack num: 16
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 16
+send_swp: Current ack num: 17
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 17
+send_swp: Received packet with ack_num 48
+send_swp: Current ack num: 17
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 17
+send_swp: Current ack num: 18
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 18
+send_swp: Received packet with ack_num 49
+send_swp: Current ack num: 18
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 18
+send_swp: Current ack num: 19
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 19
+send_swp: Received packet with ack_num 50
+send_swp: Current ack num: 19
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 19
+send_swp: Current ack num: 20
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 20
+send_swp: Received packet with ack_num 51
+send_swp: Current ack num: 20
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 20
+send_swp: Current ack num: 21
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 21
+send_swp: Received packet with ack_num 52
+send_swp: Current ack num: 21
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 21
+send_swp: Current ack num: 22
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 22
+send_swp: Received packet with ack_num 53
+send_swp: Current ack num: 22
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 22
+send_swp: Current ack num: 23
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 23
+send_swp: Received packet with ack_num 54
+send_swp: Current ack num: 23
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 23
+send_swp: Current ack num: 24
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 24
+send_swp: Received packet with ack_num 55
+send_swp: Current ack num: 24
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 24
+send_swp: Current ack num: 25
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 25
+send_swp: Received packet with ack_num 56
+send_swp: Current ack num: 25
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 25
+send_swp: Current ack num: 26
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 26
+send_swp: Received packet with ack_num 57
+send_swp: Current ack num: 26
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 26
+send_swp: Current ack num: 27
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 27
+send_swp: Received packet with ack_num 58
+send_swp: Current ack num: 27
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 27
+send_swp: Current ack num: 28
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 28
+send_swp: Received packet with ack_num 59
+send_swp: Current ack num: 28
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 28
+send_swp: Current ack num: 29
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Received packet with ack_num 0
+send_swp: Current ack num: 29
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Current ack num: 30
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Received packet with ack_num 1
+send_swp: Current ack num: 30
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Current ack num: 31
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Received packet with ack_num 2
+send_swp: Current ack num: 31
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Current ack num: 32
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Received packet with ack_num 3
+send_swp: Current ack num: 32
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Current ack num: 33
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Received packet with ack_num 4
+send_swp: Current ack num: 33
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Current ack num: 34
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Received packet with ack_num 5
+send_swp: Current ack num: 34
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Current ack num: 35
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Received packet with ack_num 6
+send_swp: Current ack num: 35
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Current ack num: 36
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Received packet with ack_num 7
+send_swp: Current ack num: 36
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Current ack num: 37
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Received packet with ack_num 8
+send_swp: Current ack num: 37
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Current ack num: 38
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Received packet with ack_num 9
+send_swp: Current ack num: 38
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Current ack num: 39
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Received packet with ack_num 10
+send_swp: Current ack num: 39
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Current ack num: 40
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Received packet with ack_num 11
+send_swp: Current ack num: 40
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Current ack num: 41
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Received packet with ack_num 12
+send_swp: Current ack num: 41
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Current ack num: 42
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Received packet with ack_num 13
+send_swp: Current ack num: 42
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Current ack num: 43
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Received packet with ack_num 14
+send_swp: Current ack num: 43
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Current ack num: 44
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Received packet with ack_num 15
+send_swp: Current ack num: 44
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Current ack num: 45
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Received packet with ack_num 16
+send_swp: Current ack num: 45
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Current ack num: 46
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Received packet with ack_num 17
+send_swp: Current ack num: 46
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Current ack num: 47
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Received packet with ack_num 18
+send_swp: Current ack num: 47
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Current ack num: 48
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 48
+send_swp: Received packet with ack_num 19
+send_swp: Current ack num: 48
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 48
+send_swp: Current ack num: 49
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 49
+send_swp: Received packet with ack_num 20
+send_swp: Current ack num: 49
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 49
+send_swp: Current ack num: 50
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 50
+send_swp: Received packet with ack_num 21
+send_swp: Current ack num: 50
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 50
+send_swp: Current ack num: 51
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 51
+send_swp: Received packet with ack_num 22
+send_swp: Current ack num: 51
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 51
+send_swp: Current ack num: 52
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 52
+send_swp: Received packet with ack_num 23
+send_swp: Current ack num: 52
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 52
+send_swp: Current ack num: 53
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 53
+send_swp: Received packet with ack_num 24
+send_swp: Current ack num: 53
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 53
+send_swp: Current ack num: 54
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 54
+send_swp: Received packet with ack_num 25
+send_swp: Current ack num: 54
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 54
+send_swp: Current ack num: 55
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 55
+send_swp: Received packet with ack_num 26
+send_swp: Current ack num: 55
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 55
+send_swp: Current ack num: 56
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 56
+send_swp: Received packet with ack_num 27
+send_swp: Current ack num: 56
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 56
+send_swp: Current ack num: 57
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 57
+send_swp: Received packet with ack_num 28
+send_swp: Current ack num: 57
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 57
+send_swp: Current ack num: 58
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 58
+send_swp: Received packet with ack_num 29
+send_swp: Current ack num: 58
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 58
+send_swp: Current ack num: 59
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 59
+send_swp: Received packet with ack_num 30
+send_swp: Current ack num: 59
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 59
+send_swp: Current ack num: 0
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 0
+send_swp: Received packet with ack_num 31
+send_swp: Current ack num: 0
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 0
+send_swp: Current ack num: 1
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 1
+send_swp: Received packet with ack_num 32
+send_swp: Current ack num: 1
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 1
+send_swp: Current ack num: 2
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 2
+send_swp: Received packet with ack_num 33
+send_swp: Current ack num: 2
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 2
+send_swp: Current ack num: 3
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 3
+send_swp: Received packet with ack_num 34
+send_swp: Current ack num: 3
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 3
+send_swp: Current ack num: 4
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 4
+send_swp: Received packet with ack_num 35
+send_swp: Current ack num: 4
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 4
+send_swp: Current ack num: 5
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 5
+send_swp: Received packet with ack_num 36
+send_swp: Current ack num: 5
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 5
+send_swp: Current ack num: 6
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 6
+send_swp: Received packet with ack_num 37
+send_swp: Current ack num: 6
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 6
+send_swp: Current ack num: 7
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 7
+send_swp: Received packet with ack_num 38
+send_swp: Current ack num: 7
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 7
+send_swp: Current ack num: 8
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 8
+send_swp: Received packet with ack_num 39
+send_swp: Current ack num: 8
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 8
+send_swp: Current ack num: 9
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 9
+send_swp: Received packet with ack_num 40
+send_swp: Current ack num: 9
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 9
+send_swp: Current ack num: 10
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 10
+send_swp: Received packet with ack_num 41
+send_swp: Current ack num: 10
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 10
+send_swp: Current ack num: 11
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 11
+send_swp: Received packet with ack_num 42
+send_swp: Current ack num: 11
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 11
+send_swp: Current ack num: 12
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 12
+send_swp: Received packet with ack_num 43
+send_swp: Current ack num: 12
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 12
+send_swp: Current ack num: 13
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 13
+send_swp: Received packet with ack_num 44
+send_swp: Current ack num: 13
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 13
+send_swp: Current ack num: 14
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 14
+send_swp: Received packet with ack_num 45
+send_swp: Current ack num: 14
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 14
+send_swp: Current ack num: 15
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 15
+send_swp: Received packet with ack_num 46
+send_swp: Current ack num: 15
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 15
+send_swp: Current ack num: 16
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 16
+send_swp: Received packet with ack_num 47
+send_swp: Current ack num: 16
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 16
+send_swp: Current ack num: 17
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 17
+send_swp: Received packet with ack_num 48
+send_swp: Current ack num: 17
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 17
+send_swp: Current ack num: 18
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 18
+send_swp: Received packet with ack_num 49
+send_swp: Current ack num: 18
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 18
+send_swp: Current ack num: 19
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 19
+send_swp: Received packet with ack_num 50
+send_swp: Current ack num: 19
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 19
+send_swp: Current ack num: 20
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 20
+send_swp: Received packet with ack_num 51
+send_swp: Current ack num: 20
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 20
+send_swp: Current ack num: 21
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 21
+send_swp: Received packet with ack_num 52
+send_swp: Current ack num: 21
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 21
+send_swp: Current ack num: 22
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 22
+send_swp: Received packet with ack_num 53
+send_swp: Current ack num: 22
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 22
+send_swp: Current ack num: 23
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 23
+send_swp: Received packet with ack_num 54
+send_swp: Current ack num: 23
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 23
+send_swp: Current ack num: 24
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 24
+send_swp: Received packet with ack_num 55
+send_swp: Current ack num: 24
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 24
+send_swp: Current ack num: 25
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 25
+send_swp: Received packet with ack_num 56
+send_swp: Current ack num: 25
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 25
+send_swp: Current ack num: 26
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 26
+send_swp: Received packet with ack_num 57
+send_swp: Current ack num: 26
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 26
+send_swp: Current ack num: 27
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 27
+send_swp: Received packet with ack_num 58
+send_swp: Current ack num: 27
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 27
+send_swp: Current ack num: 28
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 28
+send_swp: Received packet with ack_num 59
+send_swp: Current ack num: 28
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 28
+send_swp: Current ack num: 29
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Received packet with ack_num 0
+send_swp: Current ack num: 29
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 29
+send_swp: Current ack num: 30
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Received packet with ack_num 1
+send_swp: Current ack num: 30
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 30
+send_swp: Current ack num: 31
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Received packet with ack_num 2
+send_swp: Current ack num: 31
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 31
+send_swp: Current ack num: 32
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Received packet with ack_num 3
+send_swp: Current ack num: 32
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 32
+send_swp: Current ack num: 33
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Received packet with ack_num 4
+send_swp: Current ack num: 33
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 33
+send_swp: Current ack num: 34
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Received packet with ack_num 5
+send_swp: Current ack num: 34
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 34
+send_swp: Current ack num: 35
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Received packet with ack_num 6
+send_swp: Current ack num: 35
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 35
+send_swp: Current ack num: 36
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Received packet with ack_num 7
+send_swp: Current ack num: 36
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 36
+send_swp: Current ack num: 37
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Received packet with ack_num 8
+send_swp: Current ack num: 37
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 37
+send_swp: Current ack num: 38
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Received packet with ack_num 9
+send_swp: Current ack num: 38
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 38
+send_swp: Current ack num: 39
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Received packet with ack_num 10
+send_swp: Current ack num: 39
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 39
+send_swp: Current ack num: 40
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Received packet with ack_num 11
+send_swp: Current ack num: 40
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 40
+send_swp: Current ack num: 41
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Received packet with ack_num 12
+send_swp: Current ack num: 41
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 41
+send_swp: Current ack num: 42
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Received packet with ack_num 13
+send_swp: Current ack num: 42
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 42
+send_swp: Current ack num: 43
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Received packet with ack_num 14
+send_swp: Current ack num: 43
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 43
+send_swp: Current ack num: 44
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Received packet with ack_num 15
+send_swp: Current ack num: 44
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 44
+send_swp: Current ack num: 45
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Received packet with ack_num 16
+send_swp: Current ack num: 45
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 45
+send_swp: Current ack num: 46
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Received packet with ack_num 17
+send_swp: Current ack num: 46
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 46
+send_swp: Current ack num: 47
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Received packet with ack_num 18
+send_swp: Current ack num: 47
+craft_packet: Reading in data.
+craft_packet: Read 33 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 33
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 47
+send_swp: Current ack num: 48
+We have hit the maximum ack number.
+craft_packet: Reading in data.
+craft_packet: Read 9 bytes of data.
+craft_packet: Assigning header fields.
+craft_packet: setting data pointer
+fill_send_buffer: Packet length: 9
+fill_send_buffer: Copied data into pointer
+send_swp: Sent packet with ack num 48
+send_swp: Received packet with ack_num 19
+send_swp: Current ack num: 48
+send_swp: End of file...
+fill_send_buffer: Packet length: 1
+fill_send_buffer: Copied data into pointer
+send_swp: Sent terminal message with acknum 48.
+send_swp: Received packet with ack_num 20
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 21
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 22
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 23
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 24
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 25
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 26
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 27
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 28
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 29
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 30
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 31
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 32
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 33
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 34
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 35
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 36
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 37
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 38
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 39
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 40
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 41
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 42
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 43
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 44
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 45
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 46
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 47
+send_swp: Current ack num: 48
+send_swp: Received packet with ack_num 48
+Closing file...
+Successfully closed file.
