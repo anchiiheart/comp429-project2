@@ -1,4 +1,6 @@
-# comp429-project2
+# Comp 429: Reliable File Transfer
+
+Slip days used: 4
 
 # Group Members
 
