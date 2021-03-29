@@ -53,3 +53,19 @@ Mangled packets are checked using the checksum, which is an additional field tha
 Duplicate packets are not an issue as they are handled by our process packet function, which keeps track of which packets we have recieved already, preventing any duplicate data from being written and sending an acknowledgment for this specific packet to the sender.  
 
 # Running the program 
+
+First change your directory into the folder containing all the files. Then run the make file by using make.  
+sendfile.c contains the sending functionality, to run this, use the command: ./sendfile -r <recv host>:<recv port> -f <subdir>/<filename>  
+where  
+    • <recv host> (Required) The IP address of the remote host in a.b.c.d format.   
+    • <recv port> (Required) The UDP port of the remote host.  
+    • <subdir> (Required) The local subdirectory where the file is located.  
+    • <filename> (Required) The name of the file to be sent.  
+    
+recvfile.c contains the recieving functionality, this is run with recvfile -p <recv port> where <recv port> contains the port in which the sender is operating on.  
+
+# Testing Method
+
+We ran the sendfile code on the machine on cai.cs.rice.edu and changed the parameters to increase the percent of packets that are delayed, dropped, reordered, mangled, and duplicated all at the same time. We changed these to 40% each. Then we checked that the files were recieved properly by using the diff and the md5sum program to compare the received file against the sent file. 
+
+    
